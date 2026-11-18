@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#121212</color>
+    <color name="green_primary">#2ECC71</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_hint">#666666</color>
+    <color name="btn_clear_bg">#333333</color>
+    <color name="btn_clear_text">#CCCCCC</color>
+    <color name="input_stroke">#444444</color>
+</resources>
